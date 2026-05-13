@@ -4,7 +4,7 @@ This project develops machine learning models to predict and classify **stress a
 
 ## Project Overview
 
-Data from 34 participants across multiple universities was collected over the period February–June 2025. Each participant wore a wearable device during the study period and answered daily questionnaires reporting their perceived stress and anxiety levels. The project combines sensor-derived features with daily survey labels to build predictive models.
+Data from 32 participants across multiple universities was collected over the period February–June 2025. Each participant wore a wearable device during the study period and answered daily questionnaires reporting their perceived stress and anxiety levels. The project combines sensor-derived features with daily survey labels to build predictive models.
 
 **Sensor modalities used:**
 - Heart Rate Variability (HRV)
