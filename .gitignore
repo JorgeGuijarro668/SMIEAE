@@ -1,0 +1,59 @@
+# Raw data folders
+data/
+processed/
+processed_hrv/
+processed_respiratory/
+processed_spo2/
+plots/
+project_info/
+
+# Intermediate datasets (not the final one)
+train_dataset_final.csv
+test_dataset_final.csv
+train_dataset_dq_anxiety_level_features_only.csv
+test_dataset_dq_anxiety_level_features_only.csv
+train_dataset_dq_stress_level_features_only.csv
+test_dataset_dq_stress_level_features_only.csv
+all_users_physical_activity_master.csv
+
+# Old/intermediate notebooks
+create_dataset.ipynb
+create_dataset_old.ipynb
+create_dataset_SLEEPFIX.ipynb
+create_activity_dataset.ipynb
+physical_activity.ipynb
+stress_anxiety_prediction.ipynb
+stress_anxiety_prediction_V2.ipynb
+stress_anxiety_prediction_V3.ipynb
+stress_anxiety_pred_2.ipynb
+stress_anxiety_pred_new_models.ipynb
+stress_anxiety_classification_multiview.ipynb
+
+# Setup file for external package
+setup_multiview_stacking.py
+README_multiview_stacking.md
+
+# PDFs (notebooks are the source of truth)
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+~$*
